@@ -25,15 +25,15 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
-    "@stencil/core": "^2.7.0"
+    "@stencil/core": "2.14.2"
   },
   "devDependencies": {
     "@babel/core": "^7.16.0",
     "@stencil/react-output-target": "^0.1.0",
-    "@storybook/addon-actions": "^6.3.12",
-    "@storybook/addon-essentials": "^6.3.12",
-    "@storybook/addon-links": "^6.3.12",
-    "@storybook/html": "^6.3.12",
+    "@storybook/addon-actions": "^6.4.19",
+    "@storybook/addon-essentials": "^6.4.19",
+    "@storybook/addon-links": "^6.4.19",
+    "@storybook/html": "^6.4.19",
     "@types/jest": "^26.0.24",
     "babel-loader": "^8.2.3",
     "concurrently": "^6.3.0",
